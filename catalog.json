@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Mutual Non-Disclosure Agreement",
+    "description": "Allows two parties to share confidential information with each other for a stated purpose while protecting that information from further disclosure. Created by Common Paper.",
+    "filename": "Mutual-NDA.md"
+  },
+  {
+    "name": "Cloud Service Agreement",
+    "description": "A framework agreement for selling and buying cloud software and SaaS products, covering access and use, support, payment, data privacy, warranties, liability, and indemnification. Created by Common Paper.",
+    "filename": "CSA.md"
+  },
+  {
+    "name": "Design Partner Agreement",
+    "description": "Gives an early customer access to a product before general availability in exchange for feedback, so a provider can develop and improve the product with a design partner's input. Created by Common Paper.",
+    "filename": "Design-Partner-Agreement.md"
+  },
+  {
+    "name": "Service Level Agreement",
+    "description": "Defines uptime and support response time commitments for a cloud service, along with service credits and remedies if those targets are not met. Designed to be used alongside the Common Paper Cloud Service Agreement. Created by Common Paper.",
+    "filename": "SLA.md"
+  },
+  {
+    "name": "Professional Services Agreement",
+    "description": "Governs a provider performing professional services for a customer under one or more Statements of Work (SOWs), including deliverables, intellectual property, payment, and warranties. Created by Common Paper.",
+    "filename": "PSA.md"
+  },
+  {
+    "name": "Data Processing Agreement",
+    "description": "Governs the processing of personal data between a business and its service provider, including GDPR-related obligations, subprocessors, international data transfers, and security incident response. Created by Common Paper.",
+    "filename": "DPA.md"
+  },
+  {
+    "name": "Software License Agreement",
+    "description": "Grants a customer a license to install and use on-premises or client-side software, covering license scope, updates, open source components, warranties, and liability. Created by Common Paper.",
+    "filename": "Software-License-Agreement.md"
+  },
+  {
+    "name": "Partnership Agreement",
+    "description": "A flexible framework for two companies to collaborate on joint business activities, such as co-marketing or referrals, including trademark licensing and payment terms. Created by Common Paper.",
+    "filename": "Partnership-Agreement.md"
+  },
+  {
+    "name": "Business Associate Agreement",
+    "description": "A HIPAA-required agreement between a covered entity and a business associate governing the use, disclosure, and protection of protected health information (PHI). Created by Common Paper.",
+    "filename": "BAA.md"
+  },
+  {
+    "name": "Pilot Agreement",
+    "description": "A short-term trial or evaluation agreement that lets a prospective customer test a product or service before committing to a longer-term deal. Created by Common Paper.",
+    "filename": "Pilot-Agreement.md"
+  },
+  {
+    "name": "AI Addendum",
+    "description": "A supplement to a master agreement that governs the use of AI features, including inputs, outputs, model training rights, and AI-specific disclaimers. Created by Common Paper.",
+    "filename": "AI-Addendum.md"
+  }
+]
